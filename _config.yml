@@ -245,10 +245,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _portfolio
+  # _team
   - scope:
       path: ""
-      type: portfolio
+      type: team
     values:
       layout: single
       author_profile: false
