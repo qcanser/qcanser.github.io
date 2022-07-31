@@ -100,7 +100,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/conduit-big.png"
   bio              : "FGC Team from Kazakhstan."
-  location         : "Kazakhstan, Nur-sultan, Nazarbayev University, Fab Lab."
+  location         : "Kazakhstan, Nur-sultan."
   links:
     - label: "Conduit"
       icon: "fas fa-fw fa-link"
