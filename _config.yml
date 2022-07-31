@@ -190,7 +190,7 @@ collections:
   pets:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  team:
     output: true
     permalink: /:collection/:path/
 
